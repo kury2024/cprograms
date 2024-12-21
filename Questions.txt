@@ -1,0 +1,37 @@
+Questions:
+
+1. Write a C program to calculate area of a circle, triangle, square etc. 
+
+2. Write a C program to find the distance between to point (x1,y1) & (x2,y2).
+
+3. Write a C program to find the larger number among 2 numbers.
+
+4. Write a C program to identify a person who eligible for vote.
+
+5. Write a C program to find even & odd number.
+
+6. Write a C program to identify a leap year.
+
+7. Write a C program to find the smaller number among 2 & 3 numbers.
+
+8. Write a C program to calculate grade of any marks. 
+
+9. Write a C program to find ASCII code of any symbol.
+
+10. Write a C program to check a original triangle.
+
+11. Write a C program to find Even number in given range.
+
+12. Write a C program to find the largest number among 3 numbers.
+
+13. Write a C program to make a multiplication table.
+
+14. Write a C program to identify whether a number is positive or negative.
+
+15. Write a C program to calculate the summation of first natural numbers.
+
+16. Write a C program to swap two value.
+
+17. Write a C program to transform any temperature from one scale to another scale.
+
+18. Write a C program to identify vowel & consonant. 
